@@ -1,7 +1,8 @@
 # cat-cart
 Functional Prototype of Cart Functionality for Caterpillar's Design Marketplace.
 
-#To-Do's
+# To-Do's
+
 ## Make Project Git Repo
 Create git repo and basic framework for project: frontend/backend functionality
 
